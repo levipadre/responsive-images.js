@@ -67,7 +67,7 @@
 
 				//split defined query list
 
-					var queries_array = queries.split(',');
+					var queries_array = queries.split(';');
 
 				//loop queries
 
